@@ -1,1 +1,2 @@
 06/12 17:03 first create logs file.
+06/12 17:15 dummy log.
