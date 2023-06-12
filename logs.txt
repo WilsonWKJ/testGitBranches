@@ -1,2 +1,4 @@
 06/12 17:03 first create logs file.
 06/12 17:15 dummy log.
+06/12 17:21 test conflict with stash apply.
+06/12 17:24 if i stash it twice...
